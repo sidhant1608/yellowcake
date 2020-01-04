@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://i.imgur.com/8gtoZcP.png'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Health in Style
+featuredImage: 'https://i.imgur.com/OJhEdLx.png'
+subtitle: '              Eat smart food with Sonam.  '
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
