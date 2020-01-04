@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Health in Style
 featuredImage: 'https://i.imgur.com/OJhEdLx.png'
-subtitle: '              Eat smart food with Sonam.  '
+subtitle: 'Eat smart food with Sonam.'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
