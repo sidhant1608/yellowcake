@@ -11,13 +11,20 @@ section1: >-
   She at health in style- aims at describing diet – as a lifestyle disciplinary shift 😊  
 
   ## Areas we work at - 
-  - Weight Loss/ Gain
+  * Weight Loss/ Gain
+  * PCOD
+  * Thyroid
+  * Blood Pressure 
+  * Sugar Reversal
+  * Post Pregnancy
+  * Child Nutrition
+  * Lifestyle Changes
+  * Cholestrol
+  * Skin Allergy
+  * Stress Eating
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  And many more - and with each stage we work at a very personalised level. 
+
 section2: |-
   ## You can use videos, images and text.
 
