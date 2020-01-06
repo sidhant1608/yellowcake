@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Health in Style
-featuredImage: 'https://i.imgur.com/OJhEdLx.png'
+featuredImage: 'https://i.imgur.com/ZYrjCA3.png'
 subtitle: 'Eat smart food with Sonam.'
 meta:
   description: This is a meta description.
