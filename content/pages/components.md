@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: ''
+slug: components
 title: Programs
 featuredImage: "https://i.imgur.com/5LLfCq4.jpg"
 subtitle: Join me in healthy living. 
