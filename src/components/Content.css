@@ -4,6 +4,7 @@
   display: block;
   height: auto;
   margin-bottom: 2.5rem;
+  display: none;
 }
 
 .Content--Iframe {
@@ -13,6 +14,7 @@
   overflow: hidden;
   max-width: 100%;
   height: auto;
+  display: none;
 }
 
 .Content--Iframe iframe {
@@ -21,4 +23,5 @@
   left: 0;
   width: 100%;
   height: 100%;
+  display: none;
 }
