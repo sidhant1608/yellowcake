@@ -156,6 +156,7 @@ blockquote {
   width: 100%;
   padding: 5rem 0;
   border-bottom: 1px solid #f1f1f1;
+  display: none;
 }
 .section:last-child {
   border: 0;
